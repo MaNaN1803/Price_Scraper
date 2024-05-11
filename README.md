@@ -53,11 +53,11 @@ PriceScraper's system architecture ensures smooth data flow and interaction, enh
 PriceScraper boasts an intuitive UI designed for effortless price tracking, featuring user registration, user and admin dashboards, homepage, product tracking modal, product details page, and responsive design.
 
 ## Technology Stack
-- Front-End: HTML5, CSS3, JavaScript, Next.js
+- Front-End: HTML5, CSS3, JavaScript,Typescript Next.js
 - Back-End: Node.js, Express.js, MongoDB
 - Authentication & Authorization: Web server-based
 - Data Management: Mongoose
-- UI/UX Design: Adobe XD, Sketch, Figma
+- UI/UX Design:Figma
 - Version Control: Git, GitHub
 - Security: HTTPS
 
